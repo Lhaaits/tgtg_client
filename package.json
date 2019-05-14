@@ -1,5 +1,17 @@
 {
+  "name": "@lhaaits/tgtg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
   "dependencies": {
+    "docker-compose": "^0.17.2",
+    "dotenv": "^8.0.0",
     "node-fetch": "^2.3.0"
   }
 }

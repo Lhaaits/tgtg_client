@@ -2,6 +2,16 @@
 # yarn lockfile v1
 
 
+docker-compose@^0.17.2:
+  version "0.17.2"
+  resolved "https://registry.yarnpkg.com/docker-compose/-/docker-compose-0.17.2.tgz#1c17c82cc1bb79f29f0962ddc77ca8cb60811bec"
+  integrity sha512-R3o+paZuocT1t6XGoce6sTxYYjzfpjyZ+MeGN0yqcaVv0G/25V/MZKxKYlq/cv3H0j1Njv1RL6vGnwok6ZtJ6Q==
+
+dotenv@^8.0.0:
+  version "8.0.0"
+  resolved "https://registry.yarnpkg.com/dotenv/-/dotenv-8.0.0.tgz#ed310c165b4e8a97bb745b0a9d99c31bda566440"
+  integrity sha512-30xVGqjLjiUOArT4+M5q9sYdvuR4riM6yK9wMcas9Vbp6zZa+ocC9dp6QoftuhTPhFAiLK/0C5Ni2nou/Bk8lg==
+
 node-fetch@^2.3.0:
   version "2.3.0"
   resolved "https://registry.yarnpkg.com/node-fetch/-/node-fetch-2.3.0.tgz#1a1d940bbfb916a1d3e0219f037e89e71f8c5fa5"
