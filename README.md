@@ -7,12 +7,12 @@ EMAIL=X
 PASSWORD=X
 LAT=X
 LONG=X
-```
+````
 
 I don't know yet how to get datas. 
 For example, in your index.js, I don't understand how following lines work : 
 
-```
+````
 const fetch = require("node-fetch");
 require("dotenv").config();
 
